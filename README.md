@@ -1,6 +1,5 @@
 # Scribble
-Simple GUI tool for mass-submitting Color Book runs to Speedrun.com.
-Currently only supports Individual Levels (maps) on the main game.
+Simple GUI tool for mass-submitting Color Book level runs to Speedrun.com.
 
 ### Adding Runs
 1. Click **Authenticate** and use your Speedrun.com details
